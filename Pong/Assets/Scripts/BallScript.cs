@@ -31,12 +31,14 @@ public class BallScript : MonoBehaviour{
     private void OnCollisionEnter2D(Collision2D collision) {
         if (collision.gameObject.tag == player1Wall) {
             gm.AddToPlayerScore(2);
+            ResetBall();
         } 
         if (collision.gameObject.tag == player2Wall) {
             gm.AddToPlayerScore(1);
+            ResetBall();
         }
         
-        ResetBall();
+        
     }
 
   
