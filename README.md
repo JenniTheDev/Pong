@@ -19,8 +19,9 @@ To get set up, please [check out these instructions](https://jennithe.dev/files/
 
 <br><br>
 ## Presentation Video <a name="Presentation"></a> <br>
-[Creating Pong in Unity](https://youtu.be/_YBtuEBYb5s)
+[Creating Pong in Unity](https://youtu.be/_YBtuEBYb5s)<br>
 [![Creating Pong in Unity](https://img.youtube.com/vi/_YBtuEBYb5s/0.jpg)](https://youtu.be/_YBtuEBYb5s)
+<br><br>
 
 
 ## The Game <a name="Game"></a> <br>
