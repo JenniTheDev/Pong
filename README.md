@@ -19,7 +19,7 @@ To get set up, please [check out these instructions](https://jennithe.dev/files/
 
 <br><br>
 ## Presentation Video <a name="Presentation"></a> <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_YBtuEBYb5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![[Creating Pong in Unity](https://img.youtube.com/vi/_YBtuEBYb5s/0.jpg)](https://youtu.be/_YBtuEBYb5s)
 
 
 ## The Game <a name="Game"></a> <br>
