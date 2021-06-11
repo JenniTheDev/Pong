@@ -19,12 +19,16 @@ To get set up, please [check out these instructions](https://jennithe.dev/files/
 
 <br><br>
 ## Presentation Video <a name="Presentation"></a> <br>
+[Creating Pong in Unity](https://youtu.be/_YBtuEBYb5s)
 [![Creating Pong in Unity](https://img.youtube.com/vi/_YBtuEBYb5s/0.jpg)](https://youtu.be/_YBtuEBYb5s)
 
 
 ## The Game <a name="Game"></a> <br>
 
+
+
 ## The Team <a name="Team"></a> <br>
+
 
 ## Acknowledgements <a name="Ack"></a> <br>
 Thanks to [Inland Empire Software Development](https://www.iesd.com/) for allowing me to present.
